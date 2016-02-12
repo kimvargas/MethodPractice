@@ -1,0 +1,6 @@
+C:\Users\We Can Code IT\Desktop\WeCanCodeIT\MethodPractice\MethodPractice\bin\Debug\MethodPractice.exe.config
+C:\Users\We Can Code IT\Desktop\WeCanCodeIT\MethodPractice\MethodPractice\bin\Debug\MethodPractice.exe
+C:\Users\We Can Code IT\Desktop\WeCanCodeIT\MethodPractice\MethodPractice\bin\Debug\MethodPractice.pdb
+C:\Users\We Can Code IT\Desktop\WeCanCodeIT\MethodPractice\MethodPractice\obj\Debug\MethodPractice.csprojResolveAssemblyReference.cache
+C:\Users\We Can Code IT\Desktop\WeCanCodeIT\MethodPractice\MethodPractice\obj\Debug\MethodPractice.exe
+C:\Users\We Can Code IT\Desktop\WeCanCodeIT\MethodPractice\MethodPractice\obj\Debug\MethodPractice.pdb
